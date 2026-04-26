@@ -5,3 +5,4 @@ vim.opt.listchars = {
     trail = '·',
     nbsp = '⎵'
 }
+vim.g.c_syntax_for_h = 1
